@@ -1,0 +1,28 @@
+[$0D][$0A]
+=== LoRa2021 start ===[$0D][$0A]
+[lr2021] chip firmware version 01.18[$0D][$0A]
+[lr2021] PRAM loaded, version 787[$0D][$0A]
+[lr2021] TX ready: 2440000000 Hz, SF7, power -18 (x0.5 dB), IRQ on DIO9[$0D][$0A]
+[lr2021] init done[$0D][$0A]
+radio ready, version 01.18[$0D][$0A]
+TX "Hello LoRa #1" done, 20 ms[$0D][$0A]
+TX "Hello LoRa #2" done, 19 ms[$0D][$0A]
+TX "Hello LoRa #3" done, 19 ms[$0D][$0A]
+
+...
+
+TX "Hello LoRa #203" done, 21 ms[$0D][$0A]
+TX "Hello LoRa #204" done, 21 ms[$0D][$0A]
+TX "Hello LoRa #205" done, 21 ms[$0D][$0A]
+TX "Hello LoRa #206" done, 21 ms[$0D][$0A]
+TX "Hello LoRa #207" done, 21 ms[$0D][$0A]
+TX "Hello LoRa #208" done, 21 ms[$0D][$0A]
+
+...
+
+TX "Hello LoRa #264" done, 21 ms[$0D][$0A]
+TX "Hello LoRa #265" done, 21 ms[$0D][$0A]
+TX "Hello LoRa #266" done, 21 ms[$0D][$0A]
+TX "Hello LoRa #267" done, 21 ms[$0D][$0A]
+TX "Hello LoRa #268" done, 21 ms[$0D][$0A]
+TX "Hello LoRa #269" done, 21 ms[$0D][$0A]

@@ -1,0 +1,8 @@
+CompileFlags:
+  Add: 
+    - "-IC:/Toolchain/arm-gnu-toolchain-15.2/arm-none-eabi/include"
+    - "-D__INT32_TYPE__=long"
+    - "-D__UINT32_TYPE__=unsigned long"
+
+Diagnostics:
+  UnusedIncludes: None

@@ -1,0 +1,32 @@
+[$0D][$0A]
+=== LoRa2021 start ===[$0D][$0A]
+[lr2021] chip firmware version 01.18[$0D][$0A]
+[lr2021] PRAM loaded, version 787[$0D][$0A]
+[lr2021] TX ready: 2440000000 Hz, SF7, power -18 (x0.5 dB), IRQ on DIO9[$0D][$0A]
+[lr2021] init done[$0D][$0A]
+radio ready, version 01.18[$0D][$0A]
+[lr2021] RX ready: 2440000000 Hz, SF7, HF path, boost 4[$0D][$0A]
+RX started[$0D][$0A]
+RX "Hello LoRa #1" len 13, rssi -11.5 dBm, snr 15.75 dB[$0D][$0A]
+RX "Hello LoRa #2" len 13, rssi -4.5 dBm, snr 15.75 dB[$0D][$0A]
+RX "Hello LoRa #3" len 13, rssi -1.5 dBm, snr 15.75 dB[$0D][$0A]
+
+...
+
+RX "Hello LoRa #203" len 15, rssi -3.5 dBm, snr 15.75 dB[$0D][$0A]
+RX "Hello LoRa #204" len 15, rssi -2.5 dBm, snr 15.75 dB[$0D][$0A]
+RX "Hello LoRa #205" len 15, rssi -2.5 dBm, snr 15.50 dB[$0D][$0A]
+RX header error[$0D][$0A]
+RX "Hello LoRa #206" len 15, rssi -2.5 dBm, snr 15.75 dB[$0D][$0A]
+RX "Hello LoRa #207" len 15, rssi -2.5 dBm, snr 15.50 dB[$0D][$0A]
+RX "Hello LoRa #208" len 15, rssi -3.5 dBm, snr 15.75 dB[$0D][$0A]
+
+...
+
+RX "Hello LoRa #264" len 15, rssi -1.5 dBm, snr 15.75 dB[$0D][$0A]
+RX "Hello LoRa #265" len 15, rssi -1.5 dBm, snr 15.75 dB[$0D][$0A]
+RX "Hello LoRa #266" len 15, rssi -1.5 dBm, snr 15.75 dB[$0D][$0A]
+RX header error[$0D][$0A]
+RX "Hello LoRa #267" len 15, rssi -1.5 dBm, snr 16.00 dB[$0D][$0A]
+RX "Hello LoRa #268" len 15, rssi -2.5 dBm, snr 16.00 dB[$0D][$0A]
+RX "Hello LoRa #269" len 15, rssi -2.5 dBm, snr 16.00 dB[$0D][$0A]
